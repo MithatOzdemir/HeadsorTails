@@ -23,7 +23,7 @@
                     <asp:Button ID="Button1" runat="server" Height="300px" OnClick="Button1_Click" Text="Yazı" Width="300px" />
                 </td>
                 <td>
-                    <asp:Button ID="Button2" runat="server" Height="300px" Text="Tura" Width="300px" />
+                    <asp:Button ID="Button2" runat="server" Height="300px" Text="Tura" Width="300px" OnClick="Button2_Click" />
                 </td>
             </tr>
         </table>
